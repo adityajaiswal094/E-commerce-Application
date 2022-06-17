@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:masti_go/home_page.dart';
 
@@ -12,6 +13,14 @@ class LoginPage extends StatefulWidget {
 class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
+    // MAKING THE STATUS BAR TRANSPARENT
+    SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+      statusBarColor: Colors.transparent,
+      //color set to transperent or set your own color
+      statusBarIconBrightness: Brightness.dark,
+      //set brightness for icons, like dark background light icons
+    ));
+
     return Scaffold(
       resizeToAvoidBottomInset: false,
       body: SingleChildScrollView(
