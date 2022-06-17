@@ -1,16 +1,9 @@
-# masti_go
+App Name: MastiGo
 
-A new Flutter project.
+1. Created the details page of the new user Sign Up process.
+2. Created the home screen of the application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Below are the images of the app.
+![Screenshot_2022-06-17-17-59-14-66_44548c8e137718ceeb4f8e65cf6867e9](https://user-images.githubusercontent.com/85288377/174298895-7283e3d0-db4b-4ff4-8d58-eb79958e17c8.jpg)
+![Screenshot_2022-06-17-17-59-25-54_44548c8e137718ceeb4f8e65cf6867e9](https://user-images.githubusercontent.com/85288377/174299065-3f48fd39-87da-4251-8225-ae870de181d1.jpg)
+![Screenshot_2022-06-17-17-59-37-57_44548c8e137718ceeb4f8e65cf6867e9](https://user-images.githubusercontent.com/85288377/174299079-daf84e2a-3841-4aab-b025-653885538b0f.jpg)
